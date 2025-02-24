@@ -1,5 +1,5 @@
 body {
-    background-color: #4f9ea2; 
+    background-color: #F2F0EA; 
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
@@ -7,11 +7,11 @@ body {
 }
 
 h1, h2 {
-    color: #333;
+    color: #FF78AC;
 }
 
 p {
-    color: #555;
+    color: #A8D5E3;
     max-width: 800px;
     margin: 0 auto;
 }
