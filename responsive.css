@@ -7,11 +7,11 @@ body {
 }
 
 h1, h2 {
-    color: #FF78AC;
+    color: #970747;
 }
 
 p {
-    color: #A8D5E3;
+    color: #FF78AC;
     max-width: 800px;
     margin: 0 auto;
 }
@@ -36,7 +36,7 @@ ul li {
 ul li a {
     text-decoration: none;
     font-weight: bold;
-    color: #007BFF;
+    color: #000000;
 }
 
 
